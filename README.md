@@ -1,3 +1,12 @@
-# Authenticated Routes with Nuxt.js
+# nuxt-jwt-starter
+NuxtJS + JWT Auth + SSR  + Simple backend for demo
 
-https://nuxtjs.org/examples/auth-routes
+
+#### Run app in development mode:
+
+```bash
+npm run dev
+```
+
+####
+Backend endpoints in /api folder
