@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+examples/**/*/yarn.lock
+
+# logs
+*.log
+
+# other
+.nuxt
+
+# Dist folder
+dist
+
+# dist example generation
+examples/**/dist
+
+# Coverage support
+coverage
+*.lcov
+.nyc_output
+.vscode
+
+# Intellij idea
+*.iml
+.idea
+
+# Macos
+.DS_Store

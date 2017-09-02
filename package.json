@@ -1,0 +1,20 @@
+{
+  "name": "auth-routes",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "babel-core": "^6.26.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-jwt": "^5.3.0",
+    "js-cookie": "^2.1.4",
+    "jsonwebtoken": "^7.4.3",
+    "jwt-decode": "^2.2.0",
+    "nuxt": "latest",
+    "webpack": "^2.5.1"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  }
+}
