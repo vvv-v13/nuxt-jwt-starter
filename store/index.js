@@ -24,7 +24,7 @@ export const mutations = {
     },
     SET_TOKEN: function (state, token) {
         state.token = token;
-        2instance.defaults.headers = { Authorization: 'Bearer ' + token };
+        instance.defaults.headers = { Authorization: 'Bearer ' + token };
     },
 }
 
