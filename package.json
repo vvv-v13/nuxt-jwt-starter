@@ -10,7 +10,7 @@
     "jsonwebtoken": "^7.4.3",
     "jwt-decode": "^2.2.0",
     "nuxt": "latest",
-    "webpack": "^2.5.1"
+    "webpack": "^4.29.6"
   },
   "scripts": {
     "dev": "nuxt",
